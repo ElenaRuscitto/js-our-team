@@ -1,4 +1,9 @@
-.top {
-  margin: 700px auto;
+.my-top {
+   width: 700px;
 }
+
+.container {
+  margin: 0 auto;
+}
+
 
