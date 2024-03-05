@@ -1,9 +1,21 @@
+body {
+  background-color: rgb(245, 245, 241);
+  color: rgb(136, 131, 126)
+}
+
 .my-top {
-   width: 700px;
+  margin: 0 300px;
 }
 
 .container {
   margin: 0 auto;
 }
 
+.card {
+  color: rgb(146, 142, 136);
+}
+
+h1 {
+  color: black;
+}
 
