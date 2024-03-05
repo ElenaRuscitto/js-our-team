@@ -12,10 +12,18 @@ body {
 }
 
 .card {
-  color: rgb(146, 142, 136);
+  color: rgb(82, 75, 67);
 }
 
-h1 {
+h2 {
   color: black;
+}
+
+.card-title {
+  font-family: "PT Serif", serif;
+}
+
+.card-text {
+  font-family: "Quicksand", sans-serif;
 }
 
